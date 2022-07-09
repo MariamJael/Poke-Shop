@@ -1,6 +1,6 @@
 # Poke-Shop
 
-Poke Shop Restaurant Website
+Group Project of a Poke Shop Restaurant Website
 
 ## Main Page
 ![Screen Shot 2022-07-08 at 8 26 52 PM](https://user-images.githubusercontent.com/41168858/178084876-53b47991-5dd8-49b5-9216-12a152982401.png)
